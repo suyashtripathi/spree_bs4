@@ -9,3 +9,5 @@
 //= require ./bootstrap/modal
 //= require ./bootstrap/carousel
 //= require ./bootstrap/tab
+//= require ./bootstrap/index
+//= require ./bootstrap/toast
